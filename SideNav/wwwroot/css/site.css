@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
     padding-bottom: 20px;
 }
 
@@ -32,4 +32,9 @@
     .carousel-caption {
         display: none;
     }
+}
+
+.navbar-right a {
+    padding-left: 10px;
+    color: #212529;
 }
